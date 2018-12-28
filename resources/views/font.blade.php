@@ -21,7 +21,7 @@
     </script>
 </head>
 <body>
-    <li><a href=""><i>+2 95 01 88 821 мама мыла раму</i></a></li>
+    <li><a href=""><i>+2 95 01 88 821 мама мыла раму werta1</i></a></li>
     <li><a href="#"><i class="fa fa-envelope"></i> info@domain.com</a></li>
     
     <button id="bt">push me</button>
